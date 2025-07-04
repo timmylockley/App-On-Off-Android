@@ -16,7 +16,8 @@ AppSwitcher is an Android application that allows users to toggle the operation 
 
 ### Installation
 
-I will include the APK soon so you can directly download it as a App.
+The .apk has also been included.
+However, you device must be rooted for propper operation!
 
 **Clone the Repository**
 
